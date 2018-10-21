@@ -15,6 +15,7 @@
 		38559347217CE65300CC7777 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 38559346217CE65300CC7777 /* main.m */; };
 		38559351217CE65300CC7777 /* DigitalClockTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 38559350217CE65300CC7777 /* DigitalClockTests.m */; };
 		3855935C217CE65300CC7777 /* DigitalClockUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3855935B217CE65300CC7777 /* DigitalClockUITests.m */; };
+		3855936A217CE66900CC7777 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38559369217CE66900CC7777 /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		38559357217CE65300CC7777 /* DigitalClockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DigitalClockUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3855935B217CE65300CC7777 /* DigitalClockUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DigitalClockUITests.m; sourceTree = "<group>"; };
 		3855935D217CE65300CC7777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38559369217CE66900CC7777 /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				38559342217CE65300CC7777 /* LaunchScreen.storyboard */,
 				38559345217CE65300CC7777 /* Info.plist */,
 				38559346217CE65300CC7777 /* main.m */,
+				38559369217CE66900CC7777 /* digital-7.ttf */,
 			);
 			path = DigitalClock;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				38559344217CE65300CC7777 /* LaunchScreen.storyboard in Resources */,
 				38559341217CE65300CC7777 /* Assets.xcassets in Resources */,
 				3855933F217CE65200CC7777 /* Main.storyboard in Resources */,
+				3855936A217CE66900CC7777 /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
